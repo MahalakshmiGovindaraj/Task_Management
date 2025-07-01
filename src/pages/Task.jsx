@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import CreateTask from '../components/createTask';
-import TaskList from '../components/taskList';
+import CreateTask from '../components/CreateTask';
+import TaskList from '../components/TaskList';
 
 export const Task = ({ user }) => {        // ← remove (handleEdit) param
 
