@@ -1,21 +1,22 @@
-<<<<<<< HEAD
-# Task_Management
-A simple React-based Task Management app to create, edit, delete, and search tasks with a user-friendly interface.
-<<<<<<< HEAD
-hj
-=======
-=======
-# React + Vite
+# 📝 Task Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Task Management** web application built using **React** and **Vite** with **Tailwind CSS** for styling.
 
-Currently, two official plugins are available:
+## 🔧 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Create a new task
+- 🛠️ Edit existing tasks
+- ❌ Delete tasks
+- 🔍 Search tasks by title, description, or status
+- 🎯 Filtered task view with real-time updates
+- 🧠 State management using React hooks
+- 🌐 Routing with React Router
+- 💅 Styled using Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🚀 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 9f07425 (inserted)
->>>>>>> 81a3531 (inserted)
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router DOM](https://reactrouter.com/en/main)
+- [Git](https://git-scm.com/) & GitHub
